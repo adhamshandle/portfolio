@@ -72,7 +72,7 @@ function Intro() {
   return (
     <Container>
      <IntroBrief>Hello I'm <Name>&nbsp;Adham Khaled</Name></IntroBrief>
-     <JobTitle>I'm Frontend Developer</JobTitle>
+     <JobTitle>I'm a Frontend Developer</JobTitle>
      <Contact href="#" role="button" className="btn main-button mt-3">Contact</Contact>
      <NavContainer>
      <Navbar collapseOnSelect expand="lg" bg="transparent" variant="transparent">
