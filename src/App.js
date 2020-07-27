@@ -1,6 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Intro from './Components/Intro/intro'
 import { Switch, Route, BrowserRouter } from 'react-router-dom';
