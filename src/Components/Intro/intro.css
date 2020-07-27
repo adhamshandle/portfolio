@@ -1,0 +1,9 @@
+a {
+    text-decoration: none;
+    color: white !important;
+}
+
+a:focus,
+a:active {
+    color: #ed6c82 !important;
+}
