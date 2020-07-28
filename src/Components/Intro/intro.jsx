@@ -71,7 +71,7 @@ color:white;
 function Intro() {
   return (
     <Container>
-     <IntroBrief>Hello I'm <Name>&nbsp;Adham Khaled</Name></IntroBrief>
+     <IntroBrief>Hello there, i'm <Name>&nbsp;Adham Khaled.</Name></IntroBrief>
      <JobTitle>I'm a Frontend Developer</JobTitle>
      <Contact href="#" role="button" className="btn main-button mt-3">Contact</Contact>
      <NavContainer>
