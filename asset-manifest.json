@@ -1,27 +1,31 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.299be9eb.chunk.css",
-    "main.js": "/portfolio/static/js/main.bfe5ce23.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.bfe5ce23.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.4fa065c6.chunk.css",
+    "main.js": "/portfolio/static/js/main.68b62c96.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.68b62c96.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.f49e92b1.chunk.css": "/portfolio/static/css/2.f49e92b1.chunk.css",
-    "static/js/2.6d5dcfb7.chunk.js": "/portfolio/static/js/2.6d5dcfb7.chunk.js",
-    "static/js/2.6d5dcfb7.chunk.js.map": "/portfolio/static/js/2.6d5dcfb7.chunk.js.map",
+    "static/js/2.1f424800.chunk.js": "/portfolio/static/js/2.1f424800.chunk.js",
+    "static/js/2.1f424800.chunk.js.map": "/portfolio/static/js/2.1f424800.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.c7ef8f733fc0f60097912ce48ce6a867.js": "/portfolio/precache-manifest.c7ef8f733fc0f60097912ce48ce6a867.js",
+    "precache-manifest.e9dced2ff13c8254a454312476437b61.js": "/portfolio/precache-manifest.e9dced2ff13c8254a454312476437b61.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.f49e92b1.chunk.css.map": "/portfolio/static/css/2.f49e92b1.chunk.css.map",
-    "static/css/main.299be9eb.chunk.css.map": "/portfolio/static/css/main.299be9eb.chunk.css.map",
-    "static/js/2.6d5dcfb7.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6d5dcfb7.chunk.js.LICENSE.txt",
+    "static/css/main.4fa065c6.chunk.css.map": "/portfolio/static/css/main.4fa065c6.chunk.css.map",
+    "static/js/2.1f424800.chunk.js.LICENSE.txt": "/portfolio/static/js/2.1f424800.chunk.js.LICENSE.txt",
+    "static/media/babmakkah.png": "/portfolio/static/media/babmakkah.4edb9374.png",
+    "static/media/dawaya.png": "/portfolio/static/media/dawaya.cea564da.png",
     "static/media/font-awesome.min.css": "/portfolio/static/media/fontawesome-webfont.fee66e71.woff",
-    "static/media/myphoto.jpg": "/portfolio/static/media/myphoto.75f2d438.jpg"
+    "static/media/gemma.jpg": "/portfolio/static/media/gemma.15476b8f.jpg",
+    "static/media/myphoto.jpg": "/portfolio/static/media/myphoto.75f2d438.jpg",
+    "static/media/whitepoint.png": "/portfolio/static/media/whitepoint.0c18b4b1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.f49e92b1.chunk.css",
-    "static/js/2.6d5dcfb7.chunk.js",
-    "static/css/main.299be9eb.chunk.css",
-    "static/js/main.bfe5ce23.chunk.js"
+    "static/js/2.1f424800.chunk.js",
+    "static/css/main.4fa065c6.chunk.css",
+    "static/js/main.68b62c96.chunk.js"
   ]
 }

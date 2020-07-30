@@ -1,31 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "594deeb4a4c48686da815f107c915455",
+    "revision": "7008cf138d95356182be03813662112f",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "14e26e8a121714db97f0",
+    "revision": "8fe98e41f80bedc05294",
     "url": "/portfolio/static/css/2.f49e92b1.chunk.css"
   },
   {
-    "revision": "8fecaf274d120b3aba3f",
-    "url": "/portfolio/static/css/main.299be9eb.chunk.css"
+    "revision": "630c3e24375b90b651c7",
+    "url": "/portfolio/static/css/main.4fa065c6.chunk.css"
   },
   {
-    "revision": "14e26e8a121714db97f0",
-    "url": "/portfolio/static/js/2.6d5dcfb7.chunk.js"
+    "revision": "8fe98e41f80bedc05294",
+    "url": "/portfolio/static/js/2.1f424800.chunk.js"
   },
   {
     "revision": "4386012a6d334684338618496b7aac20",
-    "url": "/portfolio/static/js/2.6d5dcfb7.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.1f424800.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8fecaf274d120b3aba3f",
-    "url": "/portfolio/static/js/main.bfe5ce23.chunk.js"
+    "revision": "630c3e24375b90b651c7",
+    "url": "/portfolio/static/js/main.68b62c96.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
     "url": "/portfolio/static/js/runtime-main.209c2d7e.js"
+  },
+  {
+    "revision": "4edb9374c6ebf5c06fe1b64c488c02f2",
+    "url": "/portfolio/static/media/babmakkah.4edb9374.png"
+  },
+  {
+    "revision": "cea564da9f4fad8345c17b54542b6282",
+    "url": "/portfolio/static/media/dawaya.cea564da.png"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -48,7 +56,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
+    "revision": "15476b8f6ae92480758b8d0ecefef681",
+    "url": "/portfolio/static/media/gemma.15476b8f.jpg"
+  },
+  {
     "revision": "75f2d4380bd7fffc5abdf23ffaac616a",
     "url": "/portfolio/static/media/myphoto.75f2d438.jpg"
+  },
+  {
+    "revision": "0c18b4b1749cd8070aa989b69a6f9850",
+    "url": "/portfolio/static/media/whitepoint.0c18b4b1.png"
   }
 ]);
