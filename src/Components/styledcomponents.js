@@ -51,12 +51,27 @@ justify-content: center;
 width:100%;
 `
 
-export const Name = styled.span `
+export const Name = styled.p `
 color: #ed6c82 !important;
 font-family: Over the Rainbow,cursive;
 display: contents;
 `
+export const WorkHistoryCard = styled.div `
+width:100%;
+display: table-caption;
+box-shadow: 0 4px 6px rgba(0,0,0,.3);
+padding: 10px 10px 25px;
+transition: all .15s linear;
+z-index: 0;
+text-align: center;
+&:hover {
+    transform: rotate(0deg);
+    transform: scale(1.2);
+    z-index: 10;
+    box-shadow: 0 10px 20px rgba(97,94,94,.26);
 
+  }
+`
 export const Contact = styled.a `
 background: transparent;
 height: 50px;

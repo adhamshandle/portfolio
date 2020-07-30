@@ -3,6 +3,7 @@ import { withRouter } from 'react-router-dom'
 import Intro from '../Intro/intro'
 import About from '../About/About';
 import Projects from '../Projects/Projects';
+import WorkHistory from '../WorkHistory/WorkHistory';
 import './Home.css'
 function Home() {
     return (
@@ -10,6 +11,7 @@ function Home() {
     <Intro/>
     <About/>
     <Projects/>
+    <WorkHistory/>
      </>
     );
   }
