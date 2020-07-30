@@ -7,3 +7,10 @@ a:focus,
 a:active {
     color: #ed6c82 !important;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Over+the+Rainbow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&display=swap');
+.row {
+    margin-right: unset !important;
+    margin-left: unset !important;
+}

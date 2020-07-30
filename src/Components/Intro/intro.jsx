@@ -1,86 +1,34 @@
 import React, { useEffect } from 'react';
-import styled from 'styled-components'
-import { Nav,NavDropdown,Navbar } from 'react-bootstrap'
+import { Nav,Row,Navbar, Col } from 'react-bootstrap'
 // import { postObject, getAllObjects } from "../../services/CommonServices";
 import { withRouter, Link } from 'react-router-dom'
 import './intro.css'
-const Container = styled.div`
-background-color: #1f2737;
-height: 100vh;
-width: 100%;
-display:flex;
-justify-content: center;
+import {IntroContainer, IntroBrief, Contact, Name, NavContainer} from '../styledcomponents'
 
-`
-const IntroBrief = styled.h1`
-display: flex;
-color: white;
-position: absolute;
-justify-content: center;
-width:100%;
-top:35%;
-`
-
-const Name = styled.p`
-color: #ed6c82;
-margin: 0px;
-padding: 0px;
-width: fit-content;
-`
-const JobTitle = styled.p`
-font-size: 2.9rem;
-color:white;
-display: flex;
-color: white;
-position: absolute;
-justify-content: center;
-width:100%;
-top:42%;
-`
-const Contact = styled.a`
-background: transparent;
-height: 50px;
-width: 100px;
-font-size: 1.2rem;
-color: #ed6c82 !important;
-text-align: center;
-margin:auto;
-letter-spacing: 2px;
-border: 1px solid  #ed6c82;
-position: absolute;
-top: 55%;
-padding:8px;
-cursor: pointer;
-font-weight: 700;
-&:hover {
-    background-color: #ed6c82;
-    color: #1f2737 !important;
-    border: 1px solid  #ed6c82;
-  }
-text-transform: uppercase;
-width:11%;
-
-`
-const NavContainer = styled.div`
-position: absolute;
-bottom: 0px;
-left:40px;
-height: 80px;
-color:white;
-`
 function Intro() {
+  $('#gothere').click(function(event) {
+    event.preventDefault();
+  $.scrollTo($('#about'), 1000);
+});
   return (
-    <Container>
+    <IntroContainer>
+      <Row>
+        <Col lg={12} sm={12} xs={12} md={12}>
      <IntroBrief>Hello there, i'm <Name>&nbsp;Adham Khaled.</Name></IntroBrief>
-     <JobTitle>I'm a Frontend Developer</JobTitle>
+     </Col>
+     </Row>
+     <Row>
+       <Col lg={12} md={12} sm={12} xs={12}>
      <Contact href="#" role="button" className="btn main-button mt-3">Contact</Contact>
+     </Col>
+     </Row>
      <NavContainer>
      <Navbar collapseOnSelect expand="lg" bg="transparent" variant="transparent">
-  <Navbar.Brand className="active" href="#home">HOME</Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="mr-auto">
-      <Nav.Link href="#about">ABOUT</Nav.Link>
+  <Navbar.Brand className="active" href="#home">HOME</Navbar.Brand>
+      <Nav.Link id="gothere" href="#about">ABOUT</Nav.Link>
       <Nav.Link href="#portfolio">PORTFOLIO</Nav.Link>
       <Nav.Link href="#contact">CONTACT</Nav.Link>
     </Nav>
@@ -89,7 +37,7 @@ function Intro() {
   </Navbar.Collapse>
 </Navbar>
 </NavContainer>
-     </Container>
+     </IntroContainer>
   );
 }
 export default withRouter(Intro)
