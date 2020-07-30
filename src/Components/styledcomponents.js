@@ -52,7 +52,7 @@ width:100%;
 `
 
 export const Name = styled.span `
-color: #ed6c82;
+color: #ed6c82 !important;
 font-family: Over the Rainbow,cursive;
 display: contents;
 `
@@ -60,7 +60,7 @@ display: contents;
 export const Contact = styled.a `
 background: transparent;
 height: 50px;
-width: 100px;
+width: 8rem;
 font-size: 1.2rem;
 color: #ed6c82 !important;
 font-family: cairo;
@@ -77,7 +77,6 @@ font-weight: 700;
     border: 1px solid  #ed6c82;
   }
 text-transform: uppercase;
-width:10%;
 
 `
 export const NavContainer = styled.div `
