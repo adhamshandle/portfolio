@@ -8,9 +8,10 @@ import '../../../node_modules/font-awesome/css/font-awesome.min.css';
 import './About.css'
 import  myphoto from '../../Assets/Images/myphoto.jpg'
 import {AboutContainer, Header, ImgContainer, ImgItSelf, JobTitle, Name} from '../styledcomponents'
-
+import $ from "jquery"
 
 function About() {
+
   return (
     <AboutContainer id="about" >
       <Header>
@@ -56,7 +57,7 @@ function About() {
       </Row>
       <Row>
         <Col lg={6} md={6} sm={6}>
-            About<ImgContainer>
+            <ImgContainer>
             <ImgItSelf src={myphoto} >
             </ImgItSelf>
             </ImgContainer>

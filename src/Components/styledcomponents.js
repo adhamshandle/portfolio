@@ -1,7 +1,6 @@
 import styled from 'styled-components'
 
 export const AboutContainer = styled.div `
-height: 100vh;
 text-align: center;
 margin-left: 10%;
 margin-right: 10%;
@@ -38,7 +37,6 @@ border-radius: 50%;
 `
 export const IntroContainer = styled.div `
 background-color: #1f2737;
-height: 40vh;
 width: 100%;
 text-align:center;
 margin-right:unset;
@@ -53,7 +51,7 @@ justify-content: center;
 width:100%;
 `
 
-export const Name = styled.p `
+export const Name = styled.span `
 color: #ed6c82;
 font-family: Over the Rainbow,cursive;
 display: contents;

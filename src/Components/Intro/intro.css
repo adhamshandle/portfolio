@@ -6,6 +6,7 @@ a {
 a:focus,
 a:active {
     color: #ed6c82 !important;
+    border: unset !important;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Over+the+Rainbow&display=swap');
