@@ -1,10 +1,9 @@
 import React from 'react';
 import { withRouter } from 'react-router-dom'
 import { Row, Col } from 'react-bootstrap'
-import { Header, SocialContainer, NameCopyRights, CopyRights } from '../styledcomponents'
+import { SocialContainer, NameCopyRights, CopyRights } from '../styledcomponents'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faFileDownload} from "@fortawesome/free-solid-svg-icons";
-
 import { faTwitterSquare, faLinkedin, faInstagramSquare, faGithubSquare } from "@fortawesome/free-brands-svg-icons"
 import '../../../node_modules/font-awesome/css/font-awesome.min.css';
 import './Social.css'

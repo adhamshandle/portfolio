@@ -1,17 +1,14 @@
 import React, { useState } from 'react';
 import { Row, Col, Button } from 'react-bootstrap'
-import { Tabs, Tab } from 'react-bootstrap-tabs';
-import { withRouter, Link } from 'react-router-dom'
+import { withRouter } from 'react-router-dom'
 import Project from '../Project/Project'
 import '../../../node_modules/font-awesome/css/font-awesome.min.css';
 import './Projects.css'
-import myphoto from '../../Assets/Images/myphoto.jpg'
-import { AboutContainer, Header, Contact} from '../styledcomponents'
+import { AboutContainer, Header} from '../styledcomponents'
 import gemma from '../../Assets/Images/gemma.jpg'
 import dawaya from '../../Assets/Images/dawaya.png'
 import babmakkah from '../../Assets/Images/babmakkah.png'
 import whitepointelabd from '../../Assets/Images/whitepoint.png'
-import $ from "jquery"
 
 function Projects() {
     const [projectsToShow,setProjects] = useState('all') 

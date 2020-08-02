@@ -1,6 +1,5 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { Card, Row, Col } from 'react-bootstrap'
-// import { postObject, getAllObjects } from "../../services/CommonServices";
 import { withRouter, Link } from 'react-router-dom'
 import { faLaptopCode, faMobileAlt, faTabletAlt, faDesktop, faCode, faRocket } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";

@@ -1,13 +1,12 @@
-import React, { useState } from 'react';
-import { Row, Col, Button } from 'react-bootstrap'
-import { Tabs, Tab } from 'react-bootstrap-tabs';
-import { withRouter, Link } from 'react-router-dom'
-import Project from '../Project/Project'
+import React from 'react';
+import { Row, Col } from 'react-bootstrap'
+import { withRouter } from 'react-router-dom'
 import '../../../node_modules/font-awesome/css/font-awesome.min.css';
 import { WorkHistoryCard, Header, AboutContainer, Name} from '../styledcomponents'
 import ImperialCreation from '../../Assets/Images/imperialcreation.png'
 import Qpix from '../../Assets/Images/qpix.jpg'
 import './WorkHistory.css'
+
 function WorkHistory() {
    
     return (
