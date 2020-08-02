@@ -2,7 +2,7 @@ import React from 'react';
 import { Row, Col } from 'react-bootstrap'
 import { withRouter } from 'react-router-dom'
 import '../../../node_modules/font-awesome/css/font-awesome.min.css';
-import { Header, AboutContainer, Name, Contact} from '../styledcomponents'
+import { Header, AboutContainer, Contact} from '../styledcomponents'
 
 import './Contact.css'
 function ContactMe() {
