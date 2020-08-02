@@ -94,7 +94,7 @@ text-align: center;
 
   }
 `
-export const Contact = styled.a `
+export const Contact = styled.span `
 background: transparent;
 height: 50px;
 width: 8rem;

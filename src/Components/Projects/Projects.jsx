@@ -47,14 +47,14 @@ function Projects() {
         }
     ]
     let projects = []
-    if (projectsToShow == 'all') {
+    if (projectsToShow === 'all') {
         projects = projectslist;
     }
-    else if (projectsToShow == 'reactjs') {
-        projects = projectslist.filter(x => x.technology == 'reactjs');
+    else if (projectsToShow === 'reactjs') {
+        projects = projectslist.filter(x => x.technology === 'reactjs');
     }
-    else if (projectsToShow == 'angular') {
-        projects = projectslist.filter(x => x.technology == 'angular');
+    else if (projectsToShow === 'angular') {
+        projects = projectslist.filter(x => x.technology === 'angular');
     }
     return (
         <AboutContainer style={{marginTop:'80px'}} id="about" >

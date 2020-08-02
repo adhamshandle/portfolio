@@ -1,10 +1,10 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { Row, Col } from 'react-bootstrap'
 import Typing from 'react-typing-animation';
-import { withRouter, Link } from 'react-router-dom'
+import { withRouter } from 'react-router-dom'
 import './intro.css'
 import {IntroContainer, IntroBrief, Contact, Name} from '../styledcomponents'
-import $ from "jquery"
+
 function Intro() {
 
   return (

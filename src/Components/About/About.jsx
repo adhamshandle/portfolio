@@ -1,13 +1,12 @@
 import React from 'react';
 import { Card, Row, Col } from 'react-bootstrap'
-import { withRouter, Link } from 'react-router-dom'
+import { withRouter } from 'react-router-dom'
 import { faLaptopCode, faMobileAlt, faTabletAlt, faDesktop, faCode, faRocket } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import '../../../node_modules/font-awesome/css/font-awesome.min.css';
 import './About.css'
 import  myphoto from '../../Assets/Images/myphoto.jpg'
 import {AboutContainer, Header, ImgContainer, ImgItSelf, JobTitle, Name} from '../styledcomponents'
-import $ from "jquery"
 
 function About() {
 
