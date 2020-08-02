@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.fc71607e.chunk.css",
-    "main.js": "/portfolio/static/js/main.f74a7112.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f74a7112.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.3c67cf14.chunk.css",
+    "main.js": "/portfolio/static/js/main.a3f5cd2b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a3f5cd2b.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.f49e92b1.chunk.css": "/portfolio/static/css/2.f49e92b1.chunk.css",
-    "static/js/2.fdd49d86.chunk.js": "/portfolio/static/js/2.fdd49d86.chunk.js",
-    "static/js/2.fdd49d86.chunk.js.map": "/portfolio/static/js/2.fdd49d86.chunk.js.map",
+    "static/js/2.9604e50b.chunk.js": "/portfolio/static/js/2.9604e50b.chunk.js",
+    "static/js/2.9604e50b.chunk.js.map": "/portfolio/static/js/2.9604e50b.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.bcbad95615ebda616e494ace04de1d70.js": "/portfolio/precache-manifest.bcbad95615ebda616e494ace04de1d70.js",
+    "precache-manifest.b5adab81db44be3cb1de25a008728abc.js": "/portfolio/precache-manifest.b5adab81db44be3cb1de25a008728abc.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.f49e92b1.chunk.css.map": "/portfolio/static/css/2.f49e92b1.chunk.css.map",
-    "static/css/main.fc71607e.chunk.css.map": "/portfolio/static/css/main.fc71607e.chunk.css.map",
-    "static/js/2.fdd49d86.chunk.js.LICENSE.txt": "/portfolio/static/js/2.fdd49d86.chunk.js.LICENSE.txt",
+    "static/css/main.3c67cf14.chunk.css.map": "/portfolio/static/css/main.3c67cf14.chunk.css.map",
+    "static/js/2.9604e50b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9604e50b.chunk.js.LICENSE.txt",
     "static/media/babmakkah.png": "/portfolio/static/media/babmakkah.4edb9374.png",
     "static/media/dawaya.png": "/portfolio/static/media/dawaya.cea564da.png",
     "static/media/font-awesome.min.css": "/portfolio/static/media/fontawesome-webfont.fee66e71.woff",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.f49e92b1.chunk.css",
-    "static/js/2.fdd49d86.chunk.js",
-    "static/css/main.fc71607e.chunk.css",
-    "static/js/main.f74a7112.chunk.js"
+    "static/js/2.9604e50b.chunk.js",
+    "static/css/main.3c67cf14.chunk.css",
+    "static/js/main.a3f5cd2b.chunk.js"
   ]
 }
