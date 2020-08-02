@@ -5,6 +5,8 @@ import About from '../About/About';
 import Projects from '../Projects/Projects';
 import WorkHistory from '../WorkHistory/WorkHistory';
 import './Home.css'
+import ContactMe from '../Contact/Contact';
+import Social from '../social/Social';
 function Home() {
     return (
      <>
@@ -12,6 +14,8 @@ function Home() {
     <About/>
     <Projects/>
     <WorkHistory/>
+    <ContactMe/>
+    <Social/>
      </>
     );
   }

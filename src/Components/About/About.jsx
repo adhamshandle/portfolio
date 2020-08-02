@@ -58,7 +58,7 @@ function About() {
       <Row>
         <Col lg={6} md={6} sm={6}>
             <ImgContainer>
-            <ImgItSelf src={myphoto} >
+            <ImgItSelf draggable="false" alt="myphoto" src={myphoto} >
             </ImgItSelf>
             </ImgContainer>
         </Col>

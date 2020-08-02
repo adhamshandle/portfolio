@@ -18,14 +18,14 @@ function WorkHistory() {
             <Row className="workhistory" style={{ marginTop: '50px', marginBottom: '50px' }}>
                 <Col md={4}>
                 <WorkHistoryCard>
-                    <img src={Qpix} alt="qpix"/>
+                    <img draggable="false" src={Qpix} alt="qpix"/>
                     <h4>Qpix</h4>
                 </WorkHistoryCard>
                 <Name>Frontend Developer</Name>
                 </Col>
                 <Col md={4}>
                 <WorkHistoryCard>
-                    <img src={ImperialCreation} alt="Imperial Creation"/>
+                    <img draggable="false" src={ImperialCreation} alt="Imperial Creation"/>
                     <h4>Imperial Creation</h4>
                 </WorkHistoryCard>
                 <Name>Frontend Developer</Name>

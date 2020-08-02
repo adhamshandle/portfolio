@@ -7,6 +7,23 @@ margin-right: 10%;
 margin-top:20px;
 `
 
+export const SocialContainer = styled.div `
+background-color: #1f2737;
+padding-top: 20px;
+
+`
+export const CopyRights = styled.p `
+display:block;
+color: white !important;
+width: 100%;
+font-size: 16px;
+`
+export const NameCopyRights = styled.span `
+font-size: 1rem;
+color: #ed6c82;
+display: unset !important;
+`
+
 export const Header = styled.h1 `
 color: #1f2737;
 font-family: cairo;
@@ -66,7 +83,7 @@ z-index: 0;
 text-align: center;
 &:hover {
     transform: rotate(0deg);
-    transform: scale(1.2);
+    transform: scale(1.0);
     z-index: 10;
     box-shadow: 0 10px 20px rgba(97,94,94,.26);
 
