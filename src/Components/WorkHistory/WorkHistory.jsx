@@ -10,7 +10,7 @@ import './WorkHistory.css'
 function WorkHistory() {
    
     return (
-        <AboutContainer style={{marginTop:'80px'}} id="about" >
+        <AboutContainer style={{marginTop:'80px'}}  >
             <Header>
                 Work History
         </Header>

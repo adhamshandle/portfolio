@@ -8,7 +8,7 @@ import {IntroContainer, IntroBrief, Contact, Name} from '../styledcomponents'
 function Intro() {
 
   return (
-    <IntroContainer id="#home">
+    <IntroContainer>
       <Row>
         <Col lg={12} sm={12} xs={12} md={12}>
      <Typing><IntroBrief>Hello there, i'm <Name>&nbsp;Adham Khaled.</Name></IntroBrief></Typing>

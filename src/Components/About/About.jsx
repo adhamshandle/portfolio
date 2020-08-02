@@ -11,7 +11,7 @@ import {AboutContainer, Header, ImgContainer, ImgItSelf, JobTitle, Name} from '.
 function About() {
 
   return (
-    <AboutContainer id="about" >
+    <AboutContainer >
       <Header>
         ABOUT
         </Header>

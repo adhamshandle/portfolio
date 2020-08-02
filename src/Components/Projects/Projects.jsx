@@ -57,7 +57,7 @@ function Projects() {
         projects = projectslist.filter(x => x.technology === 'angular');
     }
     return (
-        <AboutContainer style={{marginTop:'80px'}} id="about" >
+        <AboutContainer style={{marginTop:'80px'}}  >
             <Header>
                 Projects
         </Header>
