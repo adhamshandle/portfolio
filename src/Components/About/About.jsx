@@ -18,26 +18,26 @@ function About() {
         ABOUT
         </Header>
       <Row style={{ marginTop: '50px', marginBottom: '50px' }}>
-        <Col md={3}>
-          <Card style={{ width: '15rem', height: '10rem', backgroundColor: '#1f2737' ,borderRadius : '20px'}}>
+        <Col md={3} sm={12} xs={12}>
+          <Card className="cardabout">
             <Card.Body>
               <FontAwesomeIcon icon={faLaptopCode} size="6x" color="#ed6c82" />
               <Card.Text style={{ color: 'white', fontWeight: '700', position: 'absolute', bottom: '5px', width: '80%' }}>Javascript Native</Card.Text>
             </Card.Body>
           </Card>
         </Col>
-        <Col md={3}>
-          <Card style={{ width: '15rem', height: '10rem', backgroundColor: '#1f2737',borderRadius : '20px' }}>
+        <Col md={3} sm={12} xs={12}>
+          <Card className="cardabout">
             <Card.Body>
-              <FontAwesomeIcon icon={faMobileAlt} size="3x" style={{ padding: '5px' }} color="#ed6c82" />
-              <FontAwesomeIcon icon={faTabletAlt} size="4x" style={{ padding: '5px' }} color="#ed6c82" />
-              <FontAwesomeIcon icon={faDesktop} size="5x" style={{ padding: '5px' }} color="#ed6c82" />
+              <FontAwesomeIcon icon={faMobileAlt} size="2x" style={{ padding: '5px' }} color="#ed6c82" />
+              <FontAwesomeIcon icon={faTabletAlt} size="3x" style={{ padding: '5px' }} color="#ed6c82" />
+              <FontAwesomeIcon icon={faDesktop} size="4x" style={{ padding: '5px' }} color="#ed6c82" />
               <Card.Text style={{ color: 'white', fontWeight: '700', position: 'absolute', bottom: '5px', width: '80%' }}>Responsive Design</Card.Text>
             </Card.Body>
           </Card>
         </Col>
-        <Col md={3}>
-          <Card style={{ width: '15rem', height: '10rem', backgroundColor: '#1f2737' ,borderRadius : '20px'}}>
+        <Col md={3} sm={12} xs={12}>
+          <Card className="cardabout">
             <Card.Body>
 
               <FontAwesomeIcon icon={faCode} size="6x" color="#ed6c82" />
@@ -45,8 +45,8 @@ function About() {
             </Card.Body>
           </Card>
         </Col>
-        <Col md={3}>
-          <Card style={{ width: '15rem', height: '10rem', backgroundColor: '#1f2737' ,borderRadius : '20px' }}>
+        <Col md={3} sm={12} xs={12}>
+          <Card className="cardabout">
             <Card.Body>
 
               <FontAwesomeIcon icon={faRocket} size="6x" color="#ed6c82" />

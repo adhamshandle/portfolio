@@ -3,3 +3,18 @@
     margin-right: unset !important;
     margin-left: unset !important;
 }
+
+.cardabout {
+    height: 10rem;
+    background-color: #1f2737;
+    border-radius: 20px;
+}
+
+@media (max-width: 767px) {
+    .cardabout {
+        margin: 20px;
+        height: 10rem;
+        background-color: #1f2737;
+        border-radius: 20px;
+    }
+}

@@ -10,6 +10,8 @@ margin-top:20px;
 export const SocialContainer = styled.div `
 background-color: #1f2737;
 padding-top: 20px;
+display:block;
+text-align: center;
 
 `
 export const CopyRights = styled.p `
@@ -48,9 +50,12 @@ display:block;
 `
 export const ImgItSelf = styled.img `
 src: ${props => props.src};
-height: 300px;
-width:300px;
+height: 250px;
+    width: 60%;
 border-radius: 50%;
+@media (max-width: 768px) {
+  width: 100%;
+}
 `
 export const IntroContainer = styled.div `
 background-color: #1f2737;
@@ -70,12 +75,12 @@ width:100%;
 
 export const Name = styled.p `
 color: #ed6c82 !important;
+font-weight: 900;
 font-family: Over the Rainbow,cursive;
 display: contents;
 `
 export const WorkHistoryCard = styled.div `
 width:100%;
-display: table-caption;
 box-shadow: 0 4px 6px rgba(0,0,0,.3);
 padding: 10px 10px 25px;
 transition: all .15s linear;

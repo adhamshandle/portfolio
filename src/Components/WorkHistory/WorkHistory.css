@@ -1,3 +1,7 @@
 .workhistory p {
     font-size: 22px !important;
 }
+
+img {
+    width: 100%;
+}

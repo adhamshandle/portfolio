@@ -11,10 +11,13 @@
     box-sizing: border-box;
 }
 
-html,
-body {
+
+/* html, */
+
+
+/* body {
     min-height: 100%;
-}
+} */
 
 body {
     text-align: center;

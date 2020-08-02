@@ -1,31 +1,40 @@
 .project-image {
-    width: 50%;
+    width: 100%;
     height: 250px;
     padding: 20px;
-    box-shadow: 0 10px 20px rgba(97, 94, 94, .26);
+    box-shadow: 0 10px 20px rgba(97, 94, 94, 0.26);
     margin: 20px;
 }
 
 .project-image:hover {
     transform: rotate(0deg);
-    transform: scale(1.2);
+    transform: scale(1.1);
     z-index: 10;
-    box-shadow: 0 10px 20px rgba(97, 94, 94, .26);
+    box-shadow: 0 10px 20px rgba(97, 94, 94, 0.26);
+}
+
+.title {
+    color: #ed6c82 !important;
+    font-weight: 900;
+    font-family: Over the Rainbow, cursive;
+    width: 100%;
+}
+
+.visitit {
+    color: #ed6c82 !important;
+    font-weight: 900;
+    font-family: Over the Rainbow, cursive;
+    width: 100%;
+    display: block;
 }
 
 .projectParagraph {
-    position: absolute;
-    top: 27%;
     text-align: center;
-    margin: 10px;
     width: 100%;
 }
 
 .anchorproject {
     cursor: pointer;
-    position: absolute;
-    bottom: 39%;
-    margin: 10px;
     left: 45%;
     /* width: 0%; */
     color: #ed6c82 !important;
