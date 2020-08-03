@@ -1,33 +1,33 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.59c2e303.chunk.css",
-    "main.js": "/portfolio/static/js/main.d873c48d.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.d873c48d.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.052943a9.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.052943a9.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.f49e92b1.chunk.css": "/portfolio/static/css/2.f49e92b1.chunk.css",
     "static/js/2.40f7d24b.chunk.js": "/portfolio/static/js/2.40f7d24b.chunk.js",
     "static/js/2.40f7d24b.chunk.js.map": "/portfolio/static/js/2.40f7d24b.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.8e35ace46e776b254e5b9148a8c537c3.js": "/portfolio/precache-manifest.8e35ace46e776b254e5b9148a8c537c3.js",
+    "precache-manifest.0911131a56533b5b3ad0be477f6efa2e.js": "/portfolio/precache-manifest.0911131a56533b5b3ad0be477f6efa2e.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.f49e92b1.chunk.css.map": "/portfolio/static/css/2.f49e92b1.chunk.css.map",
     "static/css/main.59c2e303.chunk.css.map": "/portfolio/static/css/main.59c2e303.chunk.css.map",
     "static/js/2.40f7d24b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.40f7d24b.chunk.js.LICENSE.txt",
-    "static/media/babmakkah.png": "/portfolio/static/media/babmakkah.4edb9374.png",
-    "static/media/dawaya.png": "/portfolio/static/media/dawaya.cea564da.png",
+    "static/media/babmakkah.jpg": "/portfolio/static/media/babmakkah.497fe6cb.jpg",
+    "static/media/dawaya.jpg": "/portfolio/static/media/dawaya.3910b12a.jpg",
     "static/media/font-awesome.min.css": "/portfolio/static/media/fontawesome-webfont.fee66e71.woff",
-    "static/media/gemma.jpg": "/portfolio/static/media/gemma.15476b8f.jpg",
-    "static/media/imperialcreation.png": "/portfolio/static/media/imperialcreation.743f465d.png",
+    "static/media/gemma.jpg": "/portfolio/static/media/gemma.0a894ec0.jpg",
+    "static/media/imperialcreation.jpg": "/portfolio/static/media/imperialcreation.06b1382c.jpg",
     "static/media/myphoto.jpg": "/portfolio/static/media/myphoto.75f2d438.jpg",
     "static/media/qpix.jpg": "/portfolio/static/media/qpix.3833bc7a.jpg",
-    "static/media/whitepoint.png": "/portfolio/static/media/whitepoint.0c18b4b1.png"
+    "static/media/whitepoint.jpg": "/portfolio/static/media/whitepoint.c150bcbd.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.f49e92b1.chunk.css",
     "static/js/2.40f7d24b.chunk.js",
     "static/css/main.59c2e303.chunk.css",
-    "static/js/main.d873c48d.chunk.js"
+    "static/js/main.052943a9.chunk.js"
   ]
 }
