@@ -3,7 +3,7 @@ import { Row, Col } from 'react-bootstrap'
 import { withRouter } from 'react-router-dom'
 import '../../../node_modules/font-awesome/css/font-awesome.min.css';
 import { WorkHistoryCard, Header, AboutContainer, Name} from '../styledcomponents'
-import ImperialCreation from '../../Assets/Images/imperialcreation.png'
+import ImperialCreation from '../../Assets/Images/imperialcreation.jpg'
 import Qpix from '../../Assets/Images/qpix.jpg'
 import './WorkHistory.css'
 

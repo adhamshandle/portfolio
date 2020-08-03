@@ -6,9 +6,9 @@ import '../../../node_modules/font-awesome/css/font-awesome.min.css';
 import './Projects.css'
 import { AboutContainer, Header} from '../styledcomponents'
 import gemma from '../../Assets/Images/gemma.jpg'
-import dawaya from '../../Assets/Images/dawaya.png'
-import babmakkah from '../../Assets/Images/babmakkah.png'
-import whitepointelabd from '../../Assets/Images/whitepoint.png'
+import dawaya from '../../Assets/Images/dawaya.jpg'
+import babmakkah from '../../Assets/Images/babmakkah.jpg'
+import whitepointelabd from '../../Assets/Images/whitepoint.jpg'
 
 function Projects() {
     const [projectsToShow,setProjects] = useState('all') 
@@ -40,7 +40,7 @@ function Projects() {
         {
             id:4,
             img:dawaya,
-            description: "An E-commerce website where you can order medicines and the nearest pharmacy to your zone will provide it to you.",
+            description: "An E-commerce website where you can order medicines and the nearest pharmacy to your zone will provide it for you.",
             title: "DAWAYA",
             technology: "angular",
             url: "http://dawaya.com"
