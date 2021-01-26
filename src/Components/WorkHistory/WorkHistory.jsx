@@ -5,6 +5,7 @@ import '../../../node_modules/font-awesome/css/font-awesome.min.css';
 import { WorkHistoryCard, Header, AboutContainer, Name} from '../styledcomponents'
 import ImperialCreation from '../../Assets/Images/imperialcreation.jpg'
 import Qpix from '../../Assets/Images/qpix.jpg'
+import Orange from '../../Assets/Images/Orange-Business-Services.jpg'
 import './WorkHistory.css'
 
 function WorkHistory() {
@@ -28,6 +29,14 @@ function WorkHistory() {
                     <h4>Imperial Creation</h4>
                 </WorkHistoryCard>
                 <Name>Frontend Developer</Name>
+
+              </Col>
+              <Col md={4} sm={12} xs={12}>
+                <WorkHistoryCard>
+                    <img draggable="false" src={Orange} alt="Orange Business Services"/>
+                    <h4>Orange Business Services</h4>
+                </WorkHistoryCard>
+                <Name>Service Now Developer (Current)</Name>
 
               </Col>
             </Row>
