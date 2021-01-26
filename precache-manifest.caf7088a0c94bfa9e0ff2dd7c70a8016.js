@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "279a682764420ee7aa01a4f330cd7e45",
+    "revision": "2924303afe8b7a96e0524b7d85d1d1a9",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "923cacb4b8c63fe8a3dc",
+    "revision": "4525eda7b9e21f9659e8",
     "url": "/portfolio/static/css/2.f49e92b1.chunk.css"
   },
   {
-    "revision": "d087548e3998129467a7",
-    "url": "/portfolio/static/css/main.59c2e303.chunk.css"
+    "revision": "da27a4c6c219ba85f919",
+    "url": "/portfolio/static/css/main.58a10af4.chunk.css"
   },
   {
-    "revision": "923cacb4b8c63fe8a3dc",
-    "url": "/portfolio/static/js/2.40f7d24b.chunk.js"
+    "revision": "4525eda7b9e21f9659e8",
+    "url": "/portfolio/static/js/2.1ba77919.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/portfolio/static/js/2.40f7d24b.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.1ba77919.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d087548e3998129467a7",
-    "url": "/portfolio/static/js/main.2ff9d9b7.chunk.js"
+    "revision": "da27a4c6c219ba85f919",
+    "url": "/portfolio/static/js/main.22b08916.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
     "url": "/portfolio/static/js/runtime-main.209c2d7e.js"
+  },
+  {
+    "revision": "30c54eef9082d2da6e4fba064bc3574b",
+    "url": "/portfolio/static/media/Orange-Business-Services.30c54eef.jpg"
   },
   {
     "revision": "497fe6cb5abec448801fb0804f185531",
