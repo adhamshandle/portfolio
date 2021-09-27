@@ -17,7 +17,7 @@ function Social() {
                     <a href="https://www.linkedin.com/in/adhamshandle/" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faLinkedin} size="1x" color="#ed6c82" /></a>
                     <a href="https://www.instagram.com/adhamshandle/?hl=en" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faInstagramSquare} size="1x" color="#ed6c82" /></a>
                     <a href="https://github.com/adhamshandle" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faGithubSquare} size="1x" color="#ed6c82" /></a>
-                    <a href="https://drive.google.com/file/d/1yhxp_HzIeo6aePkjpfJ3IqiEGyKLPPCz/view?usp=sharing" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon alt="CV" icon={faFileDownload} size="1x" color="#ed6c82" /></a>
+                    <a href="https://drive.google.com/file/d/1N-1_O9nTekF95FtpRuD3O7OGFZ0ZTprs/view?usp=sharing" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon alt="CV" icon={faFileDownload} size="1x" color="#ed6c82" /></a>
                 </Col>
             </Row>
             <Row>
